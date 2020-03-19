@@ -1,2 +1,2 @@
 # MolotovMaker
-This is a script that give you the ability to make a molotov.
+This is a script that gives you the ability to make a molotov.
